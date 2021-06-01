@@ -1,8 +1,8 @@
 
-Hello! My name is Danny Zhou and I am a full stack software engineer from Los Angeles, California. I am a recent graduate of App Academy and I am actively looking for my first software engineer job! 
+### Hello! My name is Danny Zhou and I am a full stack software engineer from Los Angeles, California. I am a recent graduate of App Academy and I am actively looking for my first software engineer job! 
 
 
-****Technologies I Use****
+## Technologies I Use
 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
