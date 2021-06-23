@@ -1,5 +1,5 @@
 
-### Hello! My name is Danny Zhou and I am a full stack software engineer from Los Angeles, California. I am a recent graduate of App Academy and I am actively looking for my first software engineering job! 
+### Hello! My name is Danny Zhou and I am a full stack software engineer from Los Angeles, California. I love to play video games and badminton! I am a recent graduate of App Academy and I am actively looking for my first software engineering job! 
 
 ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=DZhou005&show_icons=true&theme=tokyonight)
 
